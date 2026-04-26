@@ -104,11 +104,6 @@ chrxgpt/
 └── package.json
 ```
 
-## 🖥️ Screenshots
-
-### Giao diện chính
-| ![image](https://ibb.co/bRFtVL8C) | ![Chat](https://via.placeholder.com/400x300/212121/e8e8e8?text=Chat+Interface) |
-
 ## 🛡️ Bảo mật
 
 - ✅ **API Key**: Chỉ lưu trong browser localStorage
