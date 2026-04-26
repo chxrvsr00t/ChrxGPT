@@ -151,7 +151,7 @@ Tự do sử dụng, chỉnh sửa và phân phối. Xem file [LICENSE](LICENSE)
 
 | | |
 |---|---|
-| 💻 GitHub | [@chxrvs](https://github.com/chxrvs) |
+| 💻 GitHub | [@chxrvs](https://github.com/chxrvsr00t) |
 | 📱 Telegram | [@chxrvs](https://t.me/chxrvs) |
 
 ---
